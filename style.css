@@ -29,6 +29,9 @@ h3{
 }
 p{
     background-color:#e2ffbb;
+    padding:12px;
+    line-height:16px;
+
 }
 .post2__child, .post3__child, .post4__child{
     ;
